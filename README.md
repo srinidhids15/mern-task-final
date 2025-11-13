@@ -71,7 +71,5 @@ npm start
 
 If you want, I can also add a **table of API endpoints** in the README (`/signup`, `/login`, `/home`) so it looks very **professional for submission**.  
 
-Do you want me to add that?
-```
 
-# mern-task-2
+
